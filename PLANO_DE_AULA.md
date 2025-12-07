@@ -7,7 +7,7 @@
 **Professores:** Matheus Coitinho, João Victor Bonilha
 **Data:** 05/12/2025
 
-Link para o vídeo: https://www.youtube.com/watch?v=faky-bGyBFk
+Link para o vídeo: https://youtu.be/faky-bGyBFk?si=AODqZ5tCNZokqIyR
 ---
 
 ## **1. PRÉ-REQUISITOS**
