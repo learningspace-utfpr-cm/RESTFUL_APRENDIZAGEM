@@ -116,4 +116,26 @@ Reflexão sobre dificuldades e domínio dos conceitos.
 
 ## **7. REFERÊNCIAS**
 
-Fielding (REST – tese), Richardson & Ruby, REST API Design Rulebook, MDN HTTP, RESTfulAPI.net, OpenAPI, artigos sobre REST e guias oficiais de design de APIs (Postman, Azure, Google Cloud).
+FIELDING, Roy Thomas. Architectural Styles and the Design of Network-based Software Architectures. 2000. Tese (Doutorado em Ciência da Informação) – University of California, Irvine.
+
+RICHARDSON, Leonard; RUBY, Sam. RESTful Web Services. 1. ed. Sebastopol: O’Reilly Media, 2007.
+
+MASSE, Mark. REST API Design Rulebook. Sebastopol: O’Reilly Media, 2011.
+
+MOZILLA DEVELOPER NETWORK (MDN). HTTP – MDN Web Docs. Disponível em: https://developer.mozilla.org/en-US/docs/Web/HTTP
+. Acesso em: 5 dez. 2025.
+
+RESTFULAPI.NET. RESTful API Guidelines and Resources. Disponível em: https://restfulapi.net/
+. Acesso em: 5 dez. 2025.
+
+OPENAPI INITIATIVE. OpenAPI Specification. Disponível em: https://www.openapis.org/
+. Acesso em: 5 dez. 2025.
+
+POSTMAN. Postman API Design Guidelines. Disponível em: https://www.postman.com/
+. Acesso em: 5 dez. 2025.
+
+MICROSOFT AZURE. REST API Design Guidelines. Disponível em: https://learn.microsoft.com/en-us/azure/
+. Acesso em: 5 dez. 2025.
+
+GOOGLE CLOUD. API Design Guide. Disponível em: https://cloud.google.com/apis/design
+. Acesso em: 5 dez. 2025.
